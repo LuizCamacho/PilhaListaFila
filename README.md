@@ -18,3 +18,4 @@
 
 
 # Resposta:
+> Após executar o projeto, pudemos ver que a ordem dos elementos é invertida ao inserirmos na pilha. Ou seja, os números de 1 à 5 passaram a ficar de 5 à 1, e essa ordem também mantém-se ao colocarmos esses elementos na fila.
